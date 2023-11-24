@@ -1,0 +1,15 @@
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\bin\Debug\net6.0\Medium.exe
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\bin\Debug\net6.0\Medium.deps.json
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\bin\Debug\net6.0\Medium.runtimeconfig.json
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\bin\Debug\net6.0\Medium.dll
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\bin\Debug\net6.0\Medium.pdb
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.csproj.AssemblyReference.cache
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.AssemblyInfoInputs.cache
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.AssemblyInfo.cs
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.csproj.CoreCompileInputs.cache
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.dll
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\refint\Medium.dll
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.pdb
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\Medium.genruntimeconfig.cache
+C:\Users\nbrja\source\repos\LeetCodeTasks\Solution1\Medium\obj\Debug\net6.0\ref\Medium.dll
